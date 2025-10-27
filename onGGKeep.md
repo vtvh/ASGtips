@@ -25,17 +25,19 @@ Trong môi trường làm việc bận rộn và đa nhiệm ngày nay, việc q
 
 ## Tips và Tricks sử dụng Google Keep hiệu quả
 - Hay quên? Sử dụng tính năng Reminder.
-`Nhắc lấy chìa khóa khi về nhà` -> Tạo reminder dựa trên vị trí.`
+`Nhắc lấy chìa khóa khi về nhà` -> Tạo reminder dựa trên vị trí.
 - Sắp xếp ghi chú bằng màu sắc và nhãn dán (Labels).
 - Sử dụng tính năng ghi âm để ghi chú nhanh khi không tiện gõ.
-- Tạo checklist để quản lý công việc hàng ngày.
+- Tạo checkbox để quản lý công việc hàng ngày.
 - Chia sẻ ghi chú với đồng nghiệp (collab button) ![alt text](img/collab.png) để cộng tác hiệu quả.
-- *Quan trọng nhất*: Sử dụng đúng **1 app** ghi chú duy nhất để tránh phân tán thông tin.
+- *Quan trọng nhất*: Sử dụng đúng *1 app* ghi chú duy nhất để tránh phân tán thông tin.
 Và dễ dàng truy hồi, tìm kiếm khi cần.
 
 ## Kết luận
-Google Keep là một công cụ mạnh mẽ giúp bạn quản lý công việc và ghi chú một
-cách hiệu quả. Hãy tận dụng các tính năng của nó để nâng cao năng suất làm việc và không bỏ lỡ bất kỳ nhiệm vụ quan trọng nào!
+Google Keep là một công cụ mạnh mẽ giúp bạn quản lý ý tưởng và ghi chú một
+cách hiệu quả.
+Hãy tận dụng các tính năng của nó để nâng cao năng suất làm việc và giải tỏa áp lực cho bộ nhớ RAM não bộ nhé. 🧠💪🏢
+Mọi đóng góp ý kiến xin gửi về https://zalo.me/0339098099
 
 ```sig
 Together, we Shine!
