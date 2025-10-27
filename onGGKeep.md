@@ -1,7 +1,7 @@
 # Google Keep: App take note cuối cùng mà bạn dùng
 
 ## TLDR
-[keeps.google.com](https://keep.google.com/u/0/)
+[keep.google.com](https://keep.google.com/u/0/)
 
 
 
